@@ -1,0 +1,3 @@
+use slow/fast pointer to find middle element
+use slow.val as root
+remember to set prev->next to null
