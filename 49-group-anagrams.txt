@@ -1,0 +1,2 @@
+hash each string s to 
+tuple(sorted(s))

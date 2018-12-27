@@ -1,0 +1,16 @@
+indexes may not be sorted
+0 may or may not appear in indexes
+
+map index to (src, dst) pair
+split string into tokens
+consider each token sequentially
+
+0 1 2 3 4 5 6
+a b c d e f g
+^^^ ^^^^^ ^^^
+0   2     5
+
+indexes = [0, 2, 5]
+
+
+

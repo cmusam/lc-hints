@@ -1,0 +1,3 @@
+keep int array of length m+n
+multiply each digit 
+finally carry over

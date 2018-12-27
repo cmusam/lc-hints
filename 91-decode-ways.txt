@@ -1,0 +1,8 @@
+dp[i] = result for first i characters
+
+return 0 immediately if
+- s start with 0
+- any 0 does not follow 1 or 2
+
+single is OK if digit is not 0
+double is OK if [prev|digit] is between 10 and 26

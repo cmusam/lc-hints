@@ -1,0 +1,4 @@
+hash each string
+abdc => '1,2,25'
+yzba => '1,2,25'
+where each number is offset between characters mod 26

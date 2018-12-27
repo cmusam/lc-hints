@@ -1,0 +1,1 @@
+reverse entire string, then reverse each word

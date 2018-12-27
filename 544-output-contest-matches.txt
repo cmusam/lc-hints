@@ -1,0 +1,4 @@
+Start with ['1', '2', '3', '4', '5', '6', '7', '8']
+On each iteration, combine first/last, second/secondLast, etc.
+Until list has length 1.
+

@@ -1,0 +1,28 @@
+brute force: generate all '%02d:%02d' % (hh, mm)
+
+smarter way:
+
+ 2 3 : 5 9
+ a b : c d
+
+Make a sorted list of unique digits
+(2, 3, 5, 9)
+
+d is not max?
+ Y: set to nextBig, DONE
+ N: set to min
+
+(c is not max AND nextBig <= 5)?
+ Y: set to nextBig, DONE
+ N: set to min
+
+(b is not max AND (10*a + nextBig <= 23)?
+ Y: set to nextBig, DONE
+ N: set to min
+
+(a is not max AND (10*nextBig + b <= 23))?
+ Y: set to nextBig, DONE
+ N: set to min
+
+
+

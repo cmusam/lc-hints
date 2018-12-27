@@ -1,0 +1,2 @@
+Starting from each position, move two pointers outward.
+Handle odd and even case separately.

@@ -1,0 +1,4 @@
+A [ -1, 0. 1, 1, -1, -4 ]
+
+Let a be first element of triple. Loop a from A[0] to A[-3]
+Use two pointers on remaining elements

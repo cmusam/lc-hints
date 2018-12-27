@@ -1,0 +1,3 @@
+DP. 
+If last chars same, compare s1[:-1] and s2[:-1]
+If last chars different, try deleting either one

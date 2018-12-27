@@ -1,0 +1,3 @@
+recursion
+can open if left_remain > 0
+can close if right_remain > left_remain

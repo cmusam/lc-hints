@@ -1,0 +1,2 @@
+split by '.' to get int list
+note that 3 is equal to 3.0

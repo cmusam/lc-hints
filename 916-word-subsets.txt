@@ -1,0 +1,3 @@
+must preprocess list B first, otherwise too slow
+    aab, acc -> {a:2, b:1, c:2}
+then check each word in A against this list

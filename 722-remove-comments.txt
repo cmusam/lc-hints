@@ -1,0 +1,7 @@
+tmp = ''
+block = False
+inline = False
+ignoreLast = False
+res = []
+
+go through each line, char by char

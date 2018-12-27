@@ -1,0 +1,2 @@
+dp[i] = max contiguous subarray ending with A[i] inclusive
+return max element in dp list

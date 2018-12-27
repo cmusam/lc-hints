@@ -1,0 +1,4 @@
+Make counter m for T.
+res = ''
+For c in S, if c in m, res += c * m[c]
+For c in m, if c not in S, res += c * m[c]

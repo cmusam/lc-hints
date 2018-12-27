@@ -1,0 +1,3 @@
+find length of each linked list
+give longer list a head start
+then use two pointers

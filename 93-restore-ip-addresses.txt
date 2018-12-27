@@ -1,0 +1,4 @@
+recursion
+ - 1 digit: ok
+ - 2 digit: no leading zero
+ - 3 digit: no leading zero, <=255

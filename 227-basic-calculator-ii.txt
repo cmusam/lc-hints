@@ -1,0 +1,6 @@
+16/8 + 10*3
+
+remove spaces
+use a stack
+evaluate */ immediately
+leave +- to the last

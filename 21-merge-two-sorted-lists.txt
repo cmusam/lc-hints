@@ -1,0 +1,3 @@
+use dummy node
+swap l1 and l2 for shorter code
+
