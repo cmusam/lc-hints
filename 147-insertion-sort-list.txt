@@ -1,0 +1,3 @@
+use dummy node
+initialize pre = head
+pre = the last sorted node as of now

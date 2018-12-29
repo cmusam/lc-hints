@@ -1,0 +1,4 @@
+two pointers
+move p2 ahead N steps
+handle special case where N == list length
+

@@ -1,0 +1,9 @@
+1-2-3-4-5
+separate in middle
+1-2-3   4-5
+reverse l2
+1-2-3   5-4
+merge 
+1-5-2-4-3
+
+

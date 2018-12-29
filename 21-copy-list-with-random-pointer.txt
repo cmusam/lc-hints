@@ -1,0 +1,1 @@
+first, make a duplicate node after each original node

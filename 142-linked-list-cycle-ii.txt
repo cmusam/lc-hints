@@ -1,0 +1,6 @@
+slow fast
+floyd's algorithm
+
+alternatively, calculate loop size K
+then use two pointers
+p2 gets a K-step headstart

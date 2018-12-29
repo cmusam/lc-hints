@@ -1,0 +1,2 @@
+do N//k iterations
+in each iteration, do k-1 times of bringing p1 to front

@@ -1,0 +1,4 @@
+dummy - 1 - 2 - 3 - 3 - 4 - X
+            p   *   *
+
+compare (p.next) and (p.next.next)

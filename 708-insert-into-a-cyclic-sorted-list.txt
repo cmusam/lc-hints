@@ -1,0 +1,3 @@
+keep p and p.next
+if v is in-between, insert
+else, keep checking for largest->smallest pair, remember those locations

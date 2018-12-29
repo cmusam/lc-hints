@@ -1,0 +1,2 @@
+do this in O(1)
+
