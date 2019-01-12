@@ -1,0 +1,7 @@
+res[0] = k
+res[1] = k*k
+res[i] = (k-1)*res[i-1] + (k-1)*res[i-2]
+         **************   ^^^^^^^^^^^^^^
+
+* add ONE color, which is DIFFERENT from tail
+^ add TWO SAME colors, which are DIFFERENT from tail

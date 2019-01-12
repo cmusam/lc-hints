@@ -1,0 +1,2 @@
+dp[r][c] = side length of all-one square, with lower-right corner M[r][c]
+dp[r][c] = 1 + min(dp[r-1][c], dp[r][c-1], dp[r-1][c-1])

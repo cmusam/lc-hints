@@ -1,0 +1,1 @@
+keep track of the most positive AND most negative values so far

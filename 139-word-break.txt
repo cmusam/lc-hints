@@ -1,0 +1,2 @@
+dp[i] = whether first i chars is a valid word break
+dp[0] = True

@@ -1,1 +1,3 @@
 calculate answer for target = 1, 2, .., amount
+keep map of {value -> min number of coins}
+initialize with {0 -> 0}

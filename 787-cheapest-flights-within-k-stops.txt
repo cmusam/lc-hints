@@ -1,0 +1,2 @@
+bellman ford K+1 iterations
+B = A[:] to copy array
